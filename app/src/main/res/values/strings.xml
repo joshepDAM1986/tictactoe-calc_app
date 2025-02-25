@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">miAplicacion</string>
+    <string name="siguiente_jugador">Turno: %1$s</string>
+    <string name="ganador">Ganador %1$s</string>
+</resources>
